@@ -12,4 +12,4 @@ Makes the transponder activate between mode C, S, and IDENT in vPilot, on A2A Ai
 
 4. Copy [`a2a-xpndr.lua`](https://github.com/pedro2555/a2a-transponder-fix/blob/master/a2a-xpndr.lua) to the `Modules` folder.
 
-_[Check fix Aerosoft's A32F](https://github.com/pedro2555/a2a-transponder-fix)_
+_[Check fix Aerosoft's A32F](https://github.com/pedro2555/aerosoft-transponder-fix)_
