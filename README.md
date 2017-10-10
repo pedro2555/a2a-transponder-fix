@@ -11,3 +11,5 @@ Makes the transponder activate between mode C, S, and IDENT in vPilot, on A2A Ai
 3. Edit `FSUIPC.ini`, and add the sections appropriately as described in [FSUIPC.ini](https://github.com/pedro2555/a2a-transponder-fix/blob/master/FSUIPC.ini).
 
 4. Copy [`a2a-xpndr.lua`](https://github.com/pedro2555/a2a-transponder-fix/blob/master/a2a-xpndr) to the `Modules` folder.
+
+_[Check fix Aerosoft's A32F](https://github.com/pedro2555/a2a-transponder-fix)_
